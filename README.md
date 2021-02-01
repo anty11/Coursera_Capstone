@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# The analysis of Oslo's boroughs
 Coursera_Capstone
 
 The analysis of Oslo's boroughs, the population increase, and clustering of neighbourhoods.
